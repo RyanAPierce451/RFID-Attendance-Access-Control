@@ -19,6 +19,8 @@ The system integrates hardware components like Arduino microcontrollers with RFI
 3. **Access Control**
     - Access is granted or denied based on RFID authentication, according to predefined rules.
 
+![Demo of RFID System](Images/Demo1.gif)
+
 ## Functional Requirements
 - **FR1:** User Management
 - **FR2:** Attendance Management
