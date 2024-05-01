@@ -31,6 +31,8 @@ The system integrates hardware components like Arduino microcontrollers with RFI
 - **NFR2:** Security
 - **NFR3:** Usability
 
+![Demo of RFID System](Images/Demo-Add-Users.gif)
+
 ## Definitions
 - **Arduino:** Open-source electronics platform used in our system.
 - **RFID:** Technology for wireless identification and tracking.
