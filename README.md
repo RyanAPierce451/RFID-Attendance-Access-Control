@@ -1,4 +1,4 @@
-![System Diagram](Images/GS-LOGO.png)
+![System Diagram](Images/team-gs-logo.png)
 # RFID-Attendance-Access-Control
 ### Scope
 The system covers all aspects of attendance and access management, from user registration to automated attendance recording and access control enforcement, supporting diverse operational needs across sectors.
