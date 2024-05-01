@@ -40,7 +40,7 @@ The system integrates hardware components like Arduino microcontrollers with RFI
 ## Development and References
 Development is guided by best practices in RFID technology, embedded systems, and software engineering. References include Arduino documentation, RFID standards, and relevant academic research.
 
-![System Diagram](Images/Simulation-Project.png)
+![System Diagram](Images/Simulation-Project.jpg)
 
 ## Conclusion
 The RFID Attendance and Access Control System sets a new standard in operational excellence, enhancing both security and user satisfaction by leveraging advanced technologies and user-centric design principles.
